@@ -426,3 +426,8 @@ h1, h2, h3 {
 
 }
         
+@media (min-height: 900px) { 
+  .fh5co-hero {
+    height: 1200px;
+  }
+}

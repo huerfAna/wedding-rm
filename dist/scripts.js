@@ -31,3 +31,4 @@ if (distance < 0) {
  document.getElementById("demo").innerHTML = "The Wedding Ceremony is Over";
 }
 }, 1000);
+
